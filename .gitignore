@@ -1,0 +1,3 @@
+safe*.json
+*.xlsx
+.ipynb_checkpoints
