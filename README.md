@@ -7,5 +7,7 @@ You can find the first one here : https://towardsdatascience.com/data-science-as
 
 ## Data
 I am not sharing either database dumps or oracle's elixir files.
-You can download Match Data Files here https://oracleselixir.com/match-data/
+You can download Match Data Files here https://oracleselixir.com/match-data/.
+
+## Database
 If you want to load Riot API through this project, you should have a MySQL database instanciated with CreateDatabase.sql and valid connection informations stored in safe_connection.json at root. You should reuse db_connector.example.json.
