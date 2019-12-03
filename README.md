@@ -3,7 +3,7 @@ Jupyter notebooks about data querying and analysis in league of legends competit
 
 ## Articles
 This repository is part of a project of blog articles. 
-You can find the first one here : https://towardsdatascience.com/data-science-as-support-of-esports-performance-and-strategies-i-d511843b00a1
+You can find the first one here : https://towardsdatascience.com/data-science-as-support-of-esports-performance-and-strategies-i-d511843b00a1. A markdown print of the notebook is also available here https://github.com/SheepWithNoWool/league-analysis/blob/master/analysis/OverviewWC/OverviewWC.md.
 
 ## Data
 I am not sharing either database dumps or oracle's elixir files.
